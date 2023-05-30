@@ -70,7 +70,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     url     = "#about"
     weight  = 98
 [[menu.main]]
-    name    = "Contact"
+    name    = "Contactllllllllllll"
     url     = "#contact"
     weight  = 99
 
